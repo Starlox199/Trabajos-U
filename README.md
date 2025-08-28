@@ -5,6 +5,7 @@ En este repositorio se van a ubicar todos los trabajos y tareas pertinentes de l
 <li>No modificar Archivos si no eres el autor</li>
 
 <br>
+![Image](https://github.com/user-attachments/assets/0572383f-d82f-4425-8136-fbeaf45e5de4)
 <br>
 
 Muchas Gracias
