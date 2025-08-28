@@ -4,6 +4,5 @@ En este repositorio se van a ubicar todos los trabajos y tareas pertinentes de l
 <li>Subir archivos en formato zip para facil descarga y carga</li>
 <li>No modificar Archivos si no eres el autor</li>
 <br>
-<img src="https://assets.plantillasdememes.com/templates/garcias-gracias/garcias-gracias11603754751.png">
 <br>
 Muchas Gracias
