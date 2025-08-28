@@ -5,7 +5,7 @@ En este repositorio se van a ubicar todos los trabajos y tareas pertinentes de l
 <li>No modificar Archivos si no eres el autor</li>
 
 <br>
-https://github.com/Starlox199/Trabajos-U/blob/8c16dd2da9232f4925736045f4533fd76f7fc22e/maxwell-the-cat.gif
+maxwell-the-cat.gif
 <br>
 
 Muchas Gracias
