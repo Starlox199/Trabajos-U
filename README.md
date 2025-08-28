@@ -9,5 +9,5 @@ En este repositorio se van a ubicar todos los trabajos y tareas pertinentes de l
 ![Image](https://github.com/user-attachments/assets/1221d1b5-4db8-414e-803d-d77513b20a36)
 
 <br>
-
+<i>Despues de esa imagen no doy mas</i>
 Muchas Gracias
