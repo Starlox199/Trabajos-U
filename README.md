@@ -5,7 +5,6 @@ En este repositorio se van a ubicar todos los trabajos y tareas pertinentes de l
 <li>No modificar Archivos si no eres el autor</li>
 
 <br>
-maxwell-the-cat.gif
 <br>
 
 Muchas Gracias
